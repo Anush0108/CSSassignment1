@@ -56,6 +56,9 @@
         li {
             margin-bottom: 5px;
         }
+        li::before{
+	       Content:”⭕”;
+        }
 
         img {
             display: block;
